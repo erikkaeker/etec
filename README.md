@@ -31,7 +31,7 @@ Curso Técnico em Informática para Internet
 </script>
 ```
 
-# Exemplo Hello World js
+# Exemplo Hello World C#
 
 ```c#
 static void Main()
